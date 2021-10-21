@@ -26,6 +26,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+ 
+If you don’t find this in ‘Subscribed’ status in your trial environment or if you are using non-trial SAP BTP subaccount you can go to your Global Account -> Entity Assignments -> Select your subaccount -> click ‘Go’ -> click Configure Entitlements -> click Add Service Plan -> search or select ‘SAP Business Application Studio’ in the dialog and select ‘Application’ plan to add SAP Business Application Studio subscription service plan to your subaccount.
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
