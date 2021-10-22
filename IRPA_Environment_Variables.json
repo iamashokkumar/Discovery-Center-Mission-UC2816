@@ -10,7 +10,7 @@
     "BusinessRule_Auth_URL": "",
     "BusinessRule_ClientID": "",   
     "BusinessRule_ClientSecret": "",
-    "BusinessRules_RuleID": ""
+    "BusinessRules_RuleServiceID": ""
   },
   "S4": {
     "S4HANA_System_URL": "",
